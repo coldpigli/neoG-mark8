@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #064e3b;
+  padding: 4rem;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 10rem;
+}
+
+h1,
+h3 {
+  color: white;
+  padding: 1rem;
+}
+
+.emoji {
+  cursor: pointer;
+  padding: 2rem;
+  font-size: 1.3rem;
+}
